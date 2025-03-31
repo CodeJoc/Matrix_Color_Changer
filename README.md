@@ -14,7 +14,11 @@ A fun interactive grid-based game where players click on cells to change their c
 
 ## 📸 Screenshots
 
+Light Mode
 <img src="https://github.com/user-attachments/assets/0323e35e-0df0-4241-9309-ce7f5a5680d0" alt="Image" width="300">
+
+Dark Mode
+<img src="https://github.com/user-attachments/assets/2e70f7b4-8a4e-4ad1-9b64-286d2d89e146" alt="Image" width="300">
 
 ## 🛠️ Tech Stack
 
