@@ -14,8 +14,7 @@ A fun interactive grid-based game where players click on cells to change their c
 
 ## 📸 Screenshots
 
-![20250401001527~2](https://github.com/user-attachments/assets/0323e35e-0df0-4241-9309-ce7f5a5680d0)
-
+<img src="https://github.com/user-attachments/assets/0323e35e-0df0-4241-9309-ce7f5a5680d0" alt="Image" width="300">
 
 ## 🛠️ Tech Stack
 
