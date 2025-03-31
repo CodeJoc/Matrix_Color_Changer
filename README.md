@@ -14,11 +14,8 @@ A fun interactive grid-based game where players click on cells to change their c
 
 ## 📸 Screenshots
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+![20250401001527~2](https://github.com/user-attachments/assets/0323e35e-0df0-4241-9309-ce7f5a5680d0)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
 
 ## 🛠️ Tech Stack
 
